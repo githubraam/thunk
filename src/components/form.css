@@ -1,0 +1,17 @@
+.label{
+    display: block;
+}
+.label + input{
+    width: 100%;
+}
+.formGroup{
+    margin-bottom: 10px;
+}
+
+.formWrpr{
+    padding: 20px;
+    background-color: aliceblue;
+    width: 100%;
+    max-width: 350px;
+    margin: auto;
+}
