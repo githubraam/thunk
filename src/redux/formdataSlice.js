@@ -41,5 +41,5 @@ const formDataSlice = createSlice({
     }
 })
 
-export const {requestSucced, requesting, saveData, getFormData} = formDataSlice.actions;
+export const {saveData} = formDataSlice.actions;
 export default formDataSlice.reducer;
